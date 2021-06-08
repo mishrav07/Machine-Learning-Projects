@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Stroke Prediction
 Machine Learning Projects
 Library used:
 import numpy as np
